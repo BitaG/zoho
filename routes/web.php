@@ -1,4 +1,4 @@
-sudo <?php
+<?php
 use App\Http\Middleware\AutorizeCheck;
 /*
 |--------------------------------------------------------------------------
